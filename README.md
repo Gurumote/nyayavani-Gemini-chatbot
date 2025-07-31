@@ -1,22 +1,55 @@
-nyayavani-Gemini-chatbot
-nyayavani-Gemini-chatbot is an AI-powered chatbot designed to help users with law-related queries. Whether you need quick legal advice, explanations of legal terms, or guidance through legal procedures, this chatbot is an accessible and friendly solution for anyone seeking reliable information about laws.
+LawBot: The Judgifier 🤖⚖️
+Welcome, seekers of legal wisdom—and laughter! LawBot is not just another legal chatbot. It's here to answer your law-related quandaries, sprinkle in some honest-to-goodness fun, and keep you on the right side of the law (and sanity).
 
-Features
-Law Guidance: Offers accurate responses to a wide range of law-related questions.
+📢 Features Like No Other
+Law Lingo, Minus the Snooze: Clear, simple explanations—no legalese attacks.
 
-24/7 Support: Available any time to assist with your legal concerns.
+Pun Power: Jokes, memes, and law puns for maximum justice (and maximum groans).
 
-User-Friendly Interface: Simple chat interface for easy interactions.
+Mood Detector: Spot if you’re frustrated (Example: “I NEED A LAWYER!”) and responds with extra empathy, GIFs, or funny lawyer quotes.
 
-Privacy Focused: Conversations remain confidential and secure.
+“Random Act of Legal Kindness”: Get a random tip to avoid future legal trouble… or to win lawyer trivia at parties.
 
-Powered by Gemini: Utilizes advanced AI from Gemini for smarter, more contextual responses.
+Legal Haiku Generator: Because who doesn’t want to hear “Power of Attorney, / Winds of change in the courthouse, / Objection sustained”?
 
-Use Cases
-Students looking for explanations on legal concepts.
+Quick Exit Mode: Boss walks in? Instantly switches your screen to “boring spreadsheet” mode (you’re safe!).
 
-Individuals seeking clarity on their legal rights and processes.
+🚀 Getting Started
+Prerequisites
+Python 3.8+
 
-Professionals needing quick references to legal frameworks.
+OpenAI/Gemini API key (or your favorite large language model)
 
-Anyone who needs to understand law-related documents, terminology, or procedures.
+Streamlit/FastAPI/Your preferred web magic dust
+
+Installation
+bash
+git clone https://github.com/yourusername/LawBot-Judgifier.git
+cd LawBot-Judgifier
+pip install -r requirements.txt
+Configuration
+Rename .env.example to .env, put your API keys there.
+
+Open config.py for more customization: add your favorite lawyer joke, signature color, or change the chatbot name to something even pun-ier!
+
+🧑⚖️ Example Queries
+Q: Can I represent myself in court?
+A: You absolutely can—just remember, an attorney who represents himself has a fool for a client, and a very talkative friend (himself)!
+
+Q: What does “habeas corpus” mean?
+A: It means “you shall have the body”—not in a zombie way, but more like “bring the person to court!”
+
+Q: Is pineapple on pizza illegal?
+A: Debatable. Not in the courts, but definitely in the Court of Public Opinion.
+
+🎉 Quirky Extras
+Legal Fortune Cookie: Get a daily oddball legal fact or mild prophecy (e.g., “You will not be called for jury duty this year. Hopefully.”)
+
+Secret Judge Mode: Type “robeup” to get advice with extra authority and random gavel sounds.
+
+Undo Bad Questions: Detects and gently rephrases “Oops, can I actually do that?!” moments.
+
+Sidebar with Famous Legal Movie Quotes
+
+🔥 Contributing
+Pull requests welcome—bonus points if you submit with a lawyer joke. Please see CONTRIBUTING.md for more info.
