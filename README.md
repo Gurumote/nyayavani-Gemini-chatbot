@@ -14,24 +14,6 @@ Legal Haiku Generator: Because who doesn’t want to hear “Power of Attorney, 
 
 Quick Exit Mode: Boss walks in? Instantly switches your screen to “boring spreadsheet” mode (you’re safe!).
 
-🚀 Getting Started
-Prerequisites
-Python 3.8+
-
-OpenAI/Gemini API key (or your favorite large language model)
-
-Streamlit/FastAPI/Your preferred web magic dust
-
-Installation
-bash
-git clone https://github.com/yourusername/LawBot-Judgifier.git
-cd LawBot-Judgifier
-pip install -r requirements.txt
-Configuration
-Rename .env.example to .env, put your API keys there.
-
-Open config.py for more customization: add your favorite lawyer joke, signature color, or change the chatbot name to something even pun-ier!
-
 🧑⚖️ Example Queries
 Q: Can I represent myself in court?
 A: You absolutely can—just remember, an attorney who represents himself has a fool for a client, and a very talkative friend (himself)!
