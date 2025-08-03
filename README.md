@@ -34,4 +34,4 @@ Undo Bad Questions: Detects and gently rephrases “Oops, can I actually do that
 Sidebar with Famous Legal Movie Quotes
 
 🔥 Contributing
-Pull requests welcome—bonus points if you submit with a lawyer joke. Please see CONTRIBUTING.md for more info.
+Pull requests welcome—bonus points if you submit with a lawyer joke. Please see CONTRIBUTING.md
